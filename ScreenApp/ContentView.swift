@@ -30,7 +30,7 @@ _____/
                 .foregroundStyle(.white)
                 .font(.largeTitle)
                 .bold()
-                Text("Amongus")
+                Text("Amongus,wee")
                 
                 
             }
