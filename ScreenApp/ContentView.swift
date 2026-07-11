@@ -11,7 +11,8 @@ struct ContentView: View {
     var body: some View {
         ZStack {
             Color.blue
-            Text(
+            VStack {
+                Text(
 """
 ➖➖🟥🟥🟥
 ➖🟥🟥🟥🟥🟥
@@ -29,7 +30,10 @@ _____/
                 .foregroundStyle(.white)
                 .font(.largeTitle)
                 .bold()
-
+                Text("Amongus")
+                
+                
+            }
         }
         .ignoresSafeArea()
     }
