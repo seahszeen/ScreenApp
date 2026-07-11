@@ -27,7 +27,7 @@ struct ContentView: View {
   I
 _____/
 """)
-                .foregroundStyle(.white)
+                .foregroundStyle(.red)
                 .font(.largeTitle)
                 .bold()
                 Text("Amongus,wee")
