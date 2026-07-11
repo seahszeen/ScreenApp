@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		D99B8EDA3001DC6E004E4B88 /* .gitignore.txt in Resources */ = {isa = PBXBuildFile; fileRef = D99B8ED93001DC6E004E4B88 /* .gitignore.txt */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		D99B8B0C2FF8A2470099CAFA /* ScreenApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ScreenApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D99B8ED93001DC6E004E4B88 /* .gitignore.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -34,6 +39,7 @@
 			children = (
 				D99B8B0E2FF8A2470099CAFA /* ScreenApp */,
 				D99B8B0D2FF8A2470099CAFA /* Products */,
+				D99B8ED93001DC6E004E4B88 /* .gitignore.txt */,
 			);
 			sourceTree = "<group>";
 		};
@@ -109,6 +115,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D99B8EDA3001DC6E004E4B88 /* .gitignore.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
